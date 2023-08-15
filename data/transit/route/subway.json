@@ -779,6 +779,19 @@
       }
     },
     {
+      "displayName": "รถไฟฟ้าบีทีเอส",
+      "locationSet": {
+        "include": ["ca-qc.geojson"]
+      },
+      "tags": {
+        "network": "รถไฟฟ้าบีทีเอส",
+        "network:en": "BTS Skytrain",
+        "network:th": "รถไฟฟ้าบีทีเอส",
+        "network:wikidata": "Q806501",
+        "route": "subway"
+      }
+    },
+    {
       "displayName": "متروی تهران",
       "id": "tehranurbanandsuburbanrailwaycompany-ca105f",
       "locationSet": {"include": ["ir"]},
